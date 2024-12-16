@@ -3,7 +3,7 @@
 </p>
 
 <h1>Windows 10 Virtual Machine Configuration in Azure</h1>
-This tutorial outlines the set up and configuaration of a Windows 10 Virtual Machine inside of a Microsoft Azure.<br />
+This tutorial outlines the set up and configuaration of a Windows 10 Virtual Machine inside of Microsoft Azure.<br />
 
 <h2>Environments and Technologies Used</h2>
 
