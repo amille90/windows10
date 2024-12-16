@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://https://i.imgur.com/eRgJweC.png" alt="osTicket logo"/>
+<img src=https://i.imgur.com/wWxNb0n.png"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>Windows 10 Virtual Machine Configuration in Azure</h1>
+This tutorial outlines the set up and configuaration of a Windows 10 Virtual Machine inside of a Microsoft Azure.<br />
 
 
 <h2>Video Demonstration</h2>
