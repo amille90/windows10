@@ -14,7 +14,7 @@ This tutorial outlines the set up and configuaration of a Windows 10 Virtual Mac
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+  
 
 <h2>Operating Systems Used </h2>
 
