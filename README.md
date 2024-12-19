@@ -175,7 +175,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 <p>
-<img src="https://imgur.com/a/ZvehfuJ.png"/>
+<img src="https://i.imgur.com/mqNK4G6.png"/>
 ""/>
 </p>
 <p>
