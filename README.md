@@ -26,7 +26,7 @@ This tutorial outlines the set up and configuaration of a Windows 10 Virtual Mac
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/8iLUz1N.png"/>
+<img src="https://i.imgur.com/LFTDxBx.png"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
