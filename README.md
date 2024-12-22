@@ -23,14 +23,14 @@ This project tutorial outlines the set up and configuaration of a Windows 10 Vir
 - Wifi Connection
 
 <h2>Configuration Steps</h2>
-Step 1: Go onto Azure's homepage and click on Resource Group
+Step 1: Go onto Azure's homepage and click on Resource Group.
 
 <p>
 <img src="https://i.imgur.com/LFTDxBx.png"/>
 </p>
 <p>
 <br />
-Step 2: Under project details give your resource group a name and select appropiate region for your location, then press review and create.
+Step 2: Under project details give your resource group a name and select an appropiate region for your location, then press review and create.
 <p>
 <img src="https://i.imgur.com/in6UssU.png"/>
 </p>
@@ -67,7 +67,7 @@ Step 6: Select the Resource Group previously created in the first and second ste
 
 </p>
 <br />
-Step 7:Name the Virtual Machine 'Windows10-vm'
+Step 7: Name the Virtual Machine 'Windows10-vm'.
 <p>
 <img src="https://i.imgur.com/Wjq0ReZ.png"/>
 </p>
@@ -75,7 +75,7 @@ Step 7:Name the Virtual Machine 'Windows10-vm'
 
 </p>
 <br />
-Step 8: Set your region appropiate to your location
+Step 8: Set your region appropiate to your location.
 <p>
 <img src="https://i.imgur.com/4fKdirn.png"/>
 </p>
@@ -83,7 +83,7 @@ Step 8: Set your region appropiate to your location
 
 </p>
 <br />
-Step 9: Select availabity zone.
+Step 9: Select an availabity zone.
 <p>
 <img src="https://i.imgur.com/QWNk0Ie.png"/>
 </p>
@@ -91,7 +91,7 @@ Step 9: Select availabity zone.
 
 </p>
 <br />
-Step 10: For image select Windows 10 Pro, version 22H2-x64 Gen2
+Step 10: For image select Windows 10 Pro, version 22H2-x64 Gen2.
 <p>
 <img src="https://i.imgur.com/zEIlo59.png"/>
 </p>
@@ -107,7 +107,7 @@ Step 11: For size choose the Standard_D4s_v3-4 vcpus, 16 GiB memory.
 
 </p>
 <br />
-Step 12: Underneath Administrator Account make sure to fill in a username and password. These will be the credentials used to log into the Windows 10 remote desktop
+Step 12: Underneath Administrator Account make sure to fill in a username and password. These will be the credentials used to log into the Windows 10 remote desktop.
 <p>
 <img src="https://i.imgur.com/g4Ht9iY.png"/>
 </p>
@@ -115,7 +115,7 @@ Step 12: Underneath Administrator Account make sure to fill in a username and pa
 
 </p>
 <br />
-Step 13: Next check off the confirm checkbox under Licensing then click the 'Next:Disks' button.
+Step 13: Next check off the confirm checkbox under Licensing then click the 'Next: Disks' button.
 <p>
 <img src="https://i.imgur.com/B3sNUyF.png"/>
 </p>
@@ -124,7 +124,7 @@ Step 13: Next check off the confirm checkbox under Licensing then click the 'Nex
 </p>
 <br />
 
-Step 14: Then click on the networking button and on the networking page underneath virtual network click on create new to create a new virtual network.
+Step 14: Click on the networking button and on the networking page underneath virtual network click on create new to create a new virtual network.
 <p>
 <img src="https://i.imgur.com/wQiEfwh.png"/>
 </p>
@@ -178,7 +178,7 @@ Step 19: Deployment should be complete.
 </p>
 <br />
 
-Step 20: Next, go back to resource group
+Step 20: Next, go back to resource group.
 <p>
 <img src="https://i.imgur.com/Ytji0OM.png"/>
 </p>
@@ -187,7 +187,7 @@ Step 20: Next, go back to resource group
 </p>
 <br />
 
-Step 21: Here you will see whre you created your fisrt resource group
+Step 21: Here you will see where you created your first resource group.
 <img src="https://i.imgur.com/kj986qY.png"/>
 </p>
 <p>
@@ -195,7 +195,7 @@ Step 21: Here you will see whre you created your fisrt resource group
 </p>
 <br />
 
-Step 22: Next go back to Virtual Machines and you will see the very first virtual machine you've created within Azure.
+Step 22: Next, go back to Virtual Machines and you will see the very first virtual machine you've created within Azure.
 <p>
 <img src="https://i.imgur.com/jjUHF8h.png"/>
 </p>
