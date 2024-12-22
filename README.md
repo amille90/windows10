@@ -19,6 +19,7 @@ This project tutorial outlines the set up and configuaration of a Windows 10 Vir
 
 - Computer Desktop/Laptop
 - Azure Account
+- Remote Desktop
 - Wifi Connection
 
 <h2>Configuration Steps</h2>
