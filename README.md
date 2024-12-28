@@ -160,7 +160,7 @@ Step 17: Validation page should come up next, press create.
 </p>
 <br />
 
-Step 18: After pressing create, the deployment in progress page should come up. This step usually take a minute or two to process.
+Step 18: After pressing create, the deployment in progress page should come up. This step usually takes a minute or two to process.
 <p>
 <img src="https://i.imgur.com/mqNK4G6.png"/>
 </p>
